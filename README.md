@@ -3,9 +3,9 @@
 
 Available methods:
 
-GET /
-GET /dog
-GET /dog/{pk}
-POST /dog
-POST /post
-PATCH /dog/{pk}
+* GET /
+* GET /dog
+* GET /dog/{pk}
+* POST /dog
+* POST /post
+* PATCH /dog/{pk}
